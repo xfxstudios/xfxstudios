@@ -5,6 +5,7 @@
 
 
 <p align='left'>I am a Backend PHP developer, passionate about technology, web and mobile development.</p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=xfxstudios alt=xfxstudios /> </p>
 
